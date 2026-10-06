@@ -1,0 +1,15 @@
+TEST CHECKLIST
+
+1. Open index.php.
+2. Create a task.
+3. Confirm it appears in the task list.
+4. Edit the task.
+5. Confirm the changes appear.
+6. Delete the task.
+7. Confirm it is removed.
+8. Test an empty title to see validation.
+9. Test the status filter "Incomplete only".
+10. Test the status filter "Completed only".
+11. Test priority filtering.
+12. Test title search.
+13. Add an old incomplete due date and confirm "Overdue" appears.
